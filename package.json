@@ -1,0 +1,10 @@
+{
+  "name": "danielfreder.com",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun scripts/serve.ts",
+    "check": "bun scripts/check.ts",
+    "test": "bun test"
+  }
+}
